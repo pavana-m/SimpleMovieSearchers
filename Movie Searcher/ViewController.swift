@@ -1,10 +1,7 @@
-//
-//  ViewController.swift
-//  Movie Searcher
-//
-//  Created by Afraz Siddiqui on 3/22/20.
-//  Copyright © 2020 ASN GROUP LLC. All rights reserved.
-//
+// Team - Transformers
+// Team members: Pavana Manjunath( CWID: 885154195)
+//               Pavithra Halanayakanahalli Amaresh (CWID: 885155101)
+
 
 import UIKit
 import SafariServices
