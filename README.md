@@ -9,3 +9,4 @@
 #### - Display Results: The app displays search results in a table view, showing movie titles, release years, and posters.
 #### - View Movie Details: Users can tap on a movie to view more details about it on IMDb via Safari View Controller.
 #### - Responsive Design: The table view adjusts dynamically to display search results in an aesthetically pleasing manner.
+
